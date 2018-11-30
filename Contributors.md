@@ -1,4 +1,5 @@
-﻿- [Noah Haasis](https://github.com/noahhaasis)
+﻿- [Kenzie Bullock](https://github.com/kenziebullock)
+- [Noah Haasis](https://github.com/noahhaasis)
 - [Michael Vernon](https://github.com/mavernon)
 - [0f0s0s](https://github.com/OfatherOsatanOson)
 - [Navjot Dhanawat](https://github.com/navjotdhanawat)
